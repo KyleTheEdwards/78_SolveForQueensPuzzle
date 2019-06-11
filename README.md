@@ -5,7 +5,6 @@
 ### citations / worked with / received help from
 I used work that was done in class, and a very small amount of data from Piazza, but other than that I worked completely by myself.
 I already had a pretty good idea of what I was going to do, so I didn't need much help.
-Ian requested to look at my work, however I did not allow him to completely copy it. 
 
 This list may omit sources common to everyone in the course,
 including...
